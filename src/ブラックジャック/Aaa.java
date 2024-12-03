@@ -1,5 +1,7 @@
 package ブラックジャック;
 
+// テストファイルです
+
 import java.util.List;
 
 public class Aaa {
